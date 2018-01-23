@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\saler\Desktop\OLED显示屏资料集22\OLED显示屏资料集22\OLED显示屏资料集\OLED显示屏资料集\OLED显示屏资料集\驱动程序\51 驱动0.96寸OLED\51 驱动0.96寸OLED\OLED12864.uvproj
+Project File Date:  09/15/2011
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling OLED12864.c...
+linking...
+Program Size: data=23.0 xdata=0 code=5429
+creating hex file from "OLED12864"...
+"OLED12864" - 0 Error(s), 0 Warning(s).

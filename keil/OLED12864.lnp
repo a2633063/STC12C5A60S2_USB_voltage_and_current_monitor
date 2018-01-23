@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"OLED12864.obj" 
+TO "OLED12864" 
+RAMSIZE(256) 
